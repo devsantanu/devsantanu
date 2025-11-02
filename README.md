@@ -35,7 +35,4 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/devsantanu)
 [![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santanuhaldarone@gmail.com)
 
----
 
-### 🐍 GitHub Contribution Snake  
-![Snake animation](https://github.com/devsantanu/devsantanu/blob/output/github-contribution-grid-snake.svg)
