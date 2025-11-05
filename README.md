@@ -13,7 +13,7 @@
 
 ### ⚙️ GitHub Stats  
 ![Santanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=devsantanu&show_icons=true&theme=tokyonight&hide_border=true)  
-![GitHub Streak](https://streak-stats.demolab.com?user=devsantanu&theme=tokyonight&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devsantanu&theme=tokyonight&hide_border=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsantanu&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
